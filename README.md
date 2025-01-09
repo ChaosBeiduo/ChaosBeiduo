@@ -7,7 +7,7 @@
 ![Git](https://img.shields.io/badge/-Git-616161?logo=Git&style=plastic)
 ![Python](https://img.shields.io/badge/-Python-616161?logo=Python&style=plastic)
 ![Vue3](https://img.shields.io/badge/-Vue3-616161?logo=Vue.js&style=plastic)
-![Next.js](https://img.shields.io/badge/-Next.js-616161?logo=Next.js&style=plastic)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-616161?logo=Nuxt.js&style=plastic)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-616161?logo=JavaScript&style=plastic)
 - 🚀 Always eager for new challenges and opportunities to grow
 
