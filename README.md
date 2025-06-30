@@ -2,7 +2,6 @@
 
 - 🚕 Currently working on front-end development at [Targetmol](https://www.targetmol.com/)
 - 💻 Aspiring to become a software engineer, exploring full-stack development
-- 🤖 Learning about fine-tuning models and diving deeper into machine learning
 - 🛠️ Tech Stack:
 ![Git](https://img.shields.io/badge/-Git-616161?logo=Git&style=plastic)
 ![Python](https://img.shields.io/badge/-Python-616161?logo=Python&style=plastic)
