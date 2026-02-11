@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-- 🚕 Currently working on front-end development at [Targetmol](https://www.targetmol.com/)
+- 🚕 Currently working as front-end developer at [TOPSCIENCE](https://www.tsbiochem.com/)
 - 💻 Aspiring to become a software engineer, exploring full-stack development
 - 🛠️ Tech Stack:
-![Git](https://img.shields.io/badge/-Git-616161?logo=Git&style=plastic)
-![Python](https://img.shields.io/badge/-Python-616161?logo=Python&style=plastic)
-![Vue3](https://img.shields.io/badge/-Vue3-616161?logo=Vue.js&style=plastic)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-616161?logo=Nuxt.js&style=plastic)
-![JavaScript](https://img.shields.io/badge/-JavaScript-616161?logo=JavaScript&style=plastic)
+![Vue.js](https://img.shields.io/badge/Vue3-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt JS](https://img.shields.io/badge/Nuxt3-002E3B?style=plastic&logo=nuxt&logoColor=#00DC82)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=plastic&logo=swift&logoColor=white)
 - 🚀 Always eager for new challenges and opportunities to grow
 
 
