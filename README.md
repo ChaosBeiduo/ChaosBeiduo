@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🚕 Currently working as front-end developer at [TOPSCIENCE](https://www.tsbiochem.com/)
-- 💻 Aspiring to become a software engineer, exploring full-stack development
+- 🚕 Currently working as software engineer.
 - 🛠️ Tech Stack:
 ![Vue.js](https://img.shields.io/badge/Vue3-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt3-002E3B?style=plastic&logo=nuxt&logoColor=#00DC82)
